@@ -1,0 +1,13 @@
+catatan 
+
+git status   //mengechek apakah data
+git add . //menambahkan semua data yang belum ada ke staging area
+git add <file name> //menambahkan file yang belum ada ke staging area
+git commit -m "<pesan>" //menambahkan pesan dan commit 
+git commit -am "<pesan>" //commit untuk file modified
+git branch <...> //menambah branch
+git branch   //mengechek branch
+git log   //mengechek commit
+git log --all --decorate --oneline --graph //mengechek graph commit
+git checkout <...> //berpindah branch atau berpindah commit
+git merge <filename> //untuk menggabungkan branch
