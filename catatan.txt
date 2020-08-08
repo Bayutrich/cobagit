@@ -7,6 +7,7 @@ git add <file name> //menambahkan file yang belum ada ke staging area
 git commit -m "<pesan>" //menambahkan pesan dan commit 
 git commit -am "<pesan>" //commit untuk file modified
 git branch <...> //menambah branch
+git branch -d <branchname> //menghapus branch yg tidak terpakai
 git branch   //mengechek branch
 git log   //mengechek commit
 git log --all --decorate --oneline --graph //mengechek graph commit
