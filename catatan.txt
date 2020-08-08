@@ -1,5 +1,6 @@
 catatan 
 
+git init //membuat repository git
 git status   //mengechek apakah data
 git add . //menambahkan semua data yang belum ada ke staging area
 git add <file name> //menambahkan file yang belum ada ke staging area
